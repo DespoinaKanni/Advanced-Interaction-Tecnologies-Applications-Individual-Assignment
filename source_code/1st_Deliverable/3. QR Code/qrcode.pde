@@ -1,7 +1,8 @@
+PImage img; 
 void setup() {
   size(320, 240);
   
-  img = loadImage("qr_code_github.png");
+  img = loadImage("qrcode.png");
 }
 
 void draw() {
