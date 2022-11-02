@@ -1,13 +1,27 @@
+
 PImage img; 
+import qrcodeprocessing.*;
+
+Decoder decoder;
 
 void setup() {
   size(250, 250);
  
-  img = loadImage("qrcode.png");
+  img = loadImage("DespoinaKanni.png");
+  
+  decoder = new Decoder(this);
+  decoder.decodeImage(img);
 }
+
+void decoderEvent(Decoder decoder) {
+  String statusMsg = decoder.getDecodedString(); 
+  println(statusMsg);
+  link(statusMsg);
+ 
+} 
+
 
 void draw() {
   background(0);
- 
   image(img, 0, 0, width, height);
 }
