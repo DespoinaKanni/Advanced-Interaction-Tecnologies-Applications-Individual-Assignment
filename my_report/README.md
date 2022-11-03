@@ -30,6 +30,42 @@
 
 ![Capture](https://user-images.githubusercontent.com/100956507/199835802-c4565bb6-0f5b-4325-9bcd-fed6de8c702d.PNG)
 
+## Recorded Video
+
+* `Άνοιξα τα έτοιμα παραδείγματα 16_4 και 16_5 από τα libraries και τα έτρεξα.` 
+
+![video](https://user-images.githubusercontent.com/100956507/199837756-066e5f2d-cf8c-42cd-9e0e-c3e68d805b2d.PNG)
+
+![video2](https://user-images.githubusercontent.com/100956507/199838205-f534bac5-fc7c-469b-a0fe-3e7865b24238.PNG)
+
+* Βρήκα το excerise 16_2 μέσα από το βιβλίο και πάτησα το [link](https://processing.org/reference/libraries/video/Movie_speed_.html) που περιέχει.
+
+![exersice](https://user-images.githubusercontent.com/100956507/199838714-a4013ecf-552c-4262-8fae-7caca9a54b5f.PNG)
+
+* `Ο κώδικας από το παραπάνω link` 
+
+![code](https://user-images.githubusercontent.com/100956507/199839741-bb5697b5-fbbb-4c5d-902d-48bbfe14823c.PNG)
+
+* Προσάρμοσα τα παραδείγματα με τον κώδικα που με οδήγησε το link ώστε να μπορεί να παίζει το δικό μου βίντεο και να μπορώ να του αλλάζω την ταχύτητα με το ποντίκι.
+
+* Βρήκα ένα βίντεο από το youtube και από την [ιστοσελίδα](https://y2mate.tools/en57ef) το κατέβασα. 
+Έπειτα έφτιαξα έναν φάκελο μέσα στον φάκελο που είχα αποθηκεύσει το αρχείο μου και τον ονόμασα data. Εκεί αποθήκευσα το βίντεο.Τέλος έβαλα στον κώδικα το όνομα του βίντεο μου ώστε να μου το εμφανίζει.
+
+## QR Code
+
+Άνοιξα το έτοιμο παράδειγμα 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
