@@ -57,11 +57,15 @@
 
 ![imgparadeigma](https://user-images.githubusercontent.com/100956507/199845644-5d264076-eb5b-481b-8e27-8ada07b13894.PNG)
 
-* Βρήκα μέσα από την *βιβλιοθήκη* του qrcode τον κώδικα.
+* Βρήκα μέσα από την [*βιβλιοθήκη*](https://shiffman.net/p5/qrcode-processing/) του qrcode τον κώδικα.
+
+![librarycode](https://user-images.githubusercontent.com/100956507/199846545-320cd350-4954-40c2-adac-4a3146257332.PNG)
 
 * Συνδύασα τους 2 κώδικες ώστε να εμφανίζεται στην οθόνη η εικόνα του qrcode και στην συνέχεια να την διαβάζει αυτόματα και να με οδηγεί κατευθείαν μέσα στο link.
 
 * Το Qr Code το έφτιαξα από την [ιστοσελίδα](https://qr.io/?gclid=EAIaIQobChMItMOK7YWT-wIVT4KDBx0XhgRKEAAYASAAEgLAePD_BwE).
+
+* Αποθήκευσα μέσα στο data την εικόνα του qr code.
 
 
 
