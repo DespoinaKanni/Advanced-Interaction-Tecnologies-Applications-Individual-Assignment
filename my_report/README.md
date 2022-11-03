@@ -2,7 +2,7 @@
 
 ### First and Last Name: Δέσποινα Καννή Ρεμπούλη
 ### University Registration Number: dpsd17042
-### GitHub Personal Profile: 
+### GitHub Personal Profile: https://github.com/DespoinaKanni
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: xxx
 
 # Introduction
