@@ -130,7 +130,12 @@
 
 ## Motion Detection
 
-Άνοιξα το [Exercise 16-7](http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion) και άλλαξα στον κώδικα
+Αντέγραψα και επεξεργάστηκα το [Exercise 16-7](http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion) σε ένα νέο δικό μου αρχείο και το αποθήκευσα. Άλλαξα στον κώδικα το **threshold, το smooth, το χρώμα - fill και το μέγεθος της έλλειψη - ellipse.** Στην συνέχεια έτρεξα το προγράμμα και η έλλειψη ακολουθούσε το χέρι μου και γενικά τις κινήσεις μου 
+
+
+
+
+
 
 
 
