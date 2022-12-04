@@ -128,6 +128,12 @@
 4. έπειτα μπήκα και εγώ στο οπτικό πεδίο της κάμερας και φαινόταν το βίντεο να παίζει από πίσω μου σε επανάληψη. 
 
 
+## Motion Detection
+
+Άνοιξα το [Exercise 16-7](http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion) και άλλαξα στον κώδικα
+
+
+
 # 3rd Deliverable 
 
 
