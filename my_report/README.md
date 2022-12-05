@@ -131,6 +131,13 @@
 4. έπειτα μπήκα και εγώ στο οπτικό πεδίο της κάμερας και φαινόταν το βίντεο να παίζει από πίσω μου σε επανάληψη. 
 
 
+![backgroundimage](https://user-images.githubusercontent.com/100956507/205702987-7a216b48-387a-4445-b24d-8a4cc9a6ee87.png)
+
+![backvideo](https://user-images.githubusercontent.com/100956507/205703716-d3e28233-2f23-4d7f-b41f-faf532de5f0e.png)
+
+![back2video](https://user-images.githubusercontent.com/100956507/205705028-e6af3df4-ad5d-4141-8f91-c5e3e97c61ee.png)
+
+
 ## Motion Detection
 
 Αντέγραψα και επεξεργάστηκα το [Exercise 16-7](http://learningprocessing.com/exercises/chp16/exercise-16-07-track-motion) σε ένα νέο δικό μου αρχείο και το αποθήκευσα. Άλλαξα στον κώδικα το *`threshold, το smooth, το χρώμα - fill και το μέγεθος της έλλειψη - ellipse.`* Στην συνέχεια έτρεξα το προγράμμα και η έλλειψη ακολουθούσε το χέρι μου και γενικά τις κινήσεις μου.
