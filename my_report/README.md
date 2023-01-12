@@ -212,7 +212,7 @@
 Έκανα εγκατάσταση της βιβλιοθήκης reacTIVision στο Processing και της εφαρμογής TUIO Simulator Processing.
 Έτρεξα το παράδειγμα TUIO demo με τη χρήση του Simulator για να πως δουλεύει.
 
-Έβαλα την εντολή `if (tobj.getSymbolID()==0)` 
+Έβαλα την εντολή `if (tobj.getSymbolID()==0)` το όποιο αντιπροσωπεύει το 
 
 
 # Bonus 
