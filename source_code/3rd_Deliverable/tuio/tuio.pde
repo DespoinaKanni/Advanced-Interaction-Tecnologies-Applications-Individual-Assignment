@@ -12,6 +12,7 @@ int imagewidth, imageheight; // PLATOS KAI MIKOS EIKONAS
 float zoom = 50;
 boolean loadImage= false ;
 float blue = 255;
+float red = 255;
 
 boolean verbose = true; // print console debug messages
 boolean callback = true; // updates only after callbacks
@@ -41,15 +42,16 @@ void draw()
   background(255);
   textFont(font, 18*scale_factor);
 
-  // ένας πινακασ που αποθηκευει ολα τα αντικειμενα του 
-  // τρεχει και εντοπίζει ολα α αντικειμενα , φτιαχνει ενα ορθογωνιο και ενα κειμενο
+
   ArrayList<TuioObject> tuioObjectList = tuioClient.getTuioObjectList();
   for (int i=0; i<tuioObjectList.size(); i++) {
     TuioObject tobj = tuioObjectList.get(i);
 
+
     if (tobj.getSymbolID()==0)
     {
       translate(tobj.getScreenX(width), tobj.getScreenY(height));
+      imageMode(CENTER);
       //rotate(tobj.getAngle());
       image(img, 0, 0, imagewidth, imageheight);
     }
@@ -59,7 +61,6 @@ void draw()
       if (tobj.getSymbolID()==1)
       {
         rotate(tobj.getAngle());
-  
       }
 
       if (tobj.getSymbolID()==2)
@@ -73,11 +74,19 @@ void draw()
       {
         // ka8orizete apo to xrwma
         blue =map(tobj.getAngle(), 0, 6.2, 255, 0 );
-        tint(255,255,blue);
+        tint(255, 255, blue);
+      }
+
+      if (tobj.getSymbolID()==4)
+      {
+        red =map(tobj.getAngle(), 0, 6.2, 255, 200 );
+        tint(255, 0, 0, 200);
       }
     }
   }
 }
+
+
 
 // called when an object is added to the scene
 void addTuioObject(TuioObject tobj) {
@@ -103,20 +112,25 @@ void removeTuioObject(TuioObject tobj) {
   }
   if (tobj.getSymbolID()==1)
   {
-      rotate(tobj.getAngle());
+    rotate(tobj.getAngle());
   }
-   if (tobj.getSymbolID()==2)
+  if (tobj.getSymbolID()==2)
   {
-     imagewidth = img.width/2;
-     imageheight = img.height/2;
+    imagewidth = img.width/2;
+    imageheight = img.height/2;
   }
-  
+
   if (tobj.getSymbolID()==3)
   {
-      blue = 255;  
-      tint(255, 255 , blue);
+    blue = 255;  
+    tint(255, 255, blue);
   }
-  
+
+  if (tobj.getSymbolID()==4)
+  { 
+    red = 255; 
+    tint(255, 255);
+  }
 }
 
 // --------------------------------------------------------------
