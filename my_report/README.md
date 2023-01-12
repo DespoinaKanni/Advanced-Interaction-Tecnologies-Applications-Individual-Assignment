@@ -223,24 +223,24 @@
 ![Screenshot (3)](https://user-images.githubusercontent.com/100956507/212179513-9b70ed6e-c93b-470f-9a14-5a3b4625dcfd.png)
 
 
-* Για id = I1 η εικόνα περιστρέφεται.
+* `Για id = I1 η εικόνα περιστρέφεται.`
 
 ![Screenshot (4)](https://user-images.githubusercontent.com/100956507/212179681-42519526-c4fc-4aa6-a171-1acf78d09682.png)
 
 
-Για id = I2 κανει σμίκρυνση και μεγέθυνση της φωτογραφίας.
+* `Για id = I2 κανει σμίκρυνση και μεγέθυνση της φωτογραφίας.`
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/100956507/212179815-c62335ce-bdcc-4df7-826f-2752e3477b0b.png)
 
 ![Screenshot (6)](https://user-images.githubusercontent.com/100956507/212179837-73605df8-68b2-4ec6-842b-23ab474e986e.png)
 
 
-Για id = I3 η φωτογραφία γίνεται πράσινη και αλλάζουν οι διάφορες αποχρώσεις του πράσινου όσο περιστρέφω το I3.
+* `Για id = I3 η φωτογραφία γίνεται πράσινη και αλλάζουν οι διάφορες αποχρώσεις του πράσινου όσο περιστρέφω το I3.`
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/100956507/212180206-6a2dc8d2-7614-4ee1-a537-2432a3298fb6.png)
 
 
-Για id = I3 η φωτογραφία γίνεται κόκκινη και αλλάζει η διάφάνεια της.
+* `Για id = I4 η φωτογραφία γίνεται κόκκινη και αλλάζει η διάφάνεια της.`
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/100956507/212180327-91b31d8f-e897-4ba5-b321-b1e032f9a31e.png)
 
