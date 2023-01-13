@@ -6,6 +6,7 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: https://github.com/DespoinaKanni/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment
 
 # Introduction
+Το μάθημα κάνει μια εισαγωγή στο processing το οποίο είναι μια γλώσσα προγραμματισμού ανοικτού κώδικα και παράλληλα προγραμματιστικό περιβάλλον για ανθρώπους που θέλουν να προγραμματίσουν εικόνες, animation και ήχο. Στην συνέχεια, γίνεται εφαρμογή της κάμερας Kinect που ανιχνεύει την κίνηση. 
 
 # Summary
 
