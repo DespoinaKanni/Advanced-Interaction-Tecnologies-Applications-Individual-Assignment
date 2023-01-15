@@ -253,7 +253,7 @@
 
 
 
-* Εισαγωγή και μετακίνηση φωτογραφίας 
+* `Εισαγωγή και μετακίνηση φωτογραφίας` 
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/100956507/212502347-3ec398c0-b7ca-4ca4-aff2-d5e3352dbf76.png)
 
@@ -268,7 +268,7 @@
 
 
 
-* Περιστροφή της φωτογραφίας 
+* `Περιστροφή της φωτογραφίας` 
 
 ![Screenshot (7)](https://user-images.githubusercontent.com/100956507/212502460-876bff50-18ed-46c3-98f5-2dfd1b5f8296.png)
 
@@ -277,7 +277,7 @@
 
 
 
-* Σμίκρυνση και μεγέθυνση της φωτογραφίας
+* `Σμίκρυνση και μεγέθυνση της φωτογραφίας`
 
 ![Screenshot (11)](https://user-images.githubusercontent.com/100956507/212502556-c6373bc4-1131-4418-9073-9c3bfd48d495.png)
 
@@ -285,7 +285,7 @@
 
 
 
- * Διάφορες αποχρώσεις του πράσινου
+ * `Διάφορες αποχρώσεις του πράσινου`
 
 ![Screenshot (19)](https://user-images.githubusercontent.com/100956507/212502613-72aa7035-3cb6-4a32-ae2e-a669ee42ab82.png)
 
@@ -300,7 +300,7 @@
 
 
 
-* Κόκκινη φωτογραφία και αλλαγή στο opacity
+* `Κόκκινη φωτογραφία και αλλαγή στο opacity`
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/100956507/212502716-df177104-c146-44c1-81cd-96992b5f6a3b.png)
 
