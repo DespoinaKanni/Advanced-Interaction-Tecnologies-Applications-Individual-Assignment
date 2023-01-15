@@ -249,7 +249,43 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/100956507/212180327-91b31d8f-e897-4ba5-b321-b1e032f9a31e.png)
 
 
-Έκανα εγκατάσταση της εφαρμογής reacTIVision vision engine από το [link]() 
+Έκανα εγκατάσταση της εφαρμογής reacTIVision vision engine από το [link](https://reactivision.sourceforge.net/).Κατέβασα το pfd όπου μέσα είχε τα fiducials. Άνοιξα την κάμερα και έτρεξα το αρχείο του processing  
+
+
+* Εισαγωγή και μετακίνηση φωτογραφίας 
+
+![Screenshot (5)](https://user-images.githubusercontent.com/100956507/212502347-3ec398c0-b7ca-4ca4-aff2-d5e3352dbf76.png)
+
+
+![Screenshot (6)](https://user-images.githubusercontent.com/100956507/212502368-23e3427a-b5ca-40c3-8e71-9767f0a06257.png)
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/100956507/212502435-07038aa2-a773-45a3-b86f-5b573c102f33.png)
+
+
+![Screenshot (20)](https://user-images.githubusercontent.com/100956507/212502443-a89dea38-afca-400f-8a13-90ea138c8ca2.png)
+
+
+![Screenshot (21)](https://user-images.githubusercontent.com/100956507/212502450-6ef383dd-8f1b-4868-b93c-a1c9f9c3e9dd.png)
+
+
+
+* Περιστροφή της φωτογραφίας 
+
+![Screenshot (7)](https://user-images.githubusercontent.com/100956507/212502460-876bff50-18ed-46c3-98f5-2dfd1b5f8296.png)
+
+
+![Screenshot (8)](https://user-images.githubusercontent.com/100956507/212502462-99b10689-e882-4e1b-8e34-3303de8390ba.png)
+
+
+![Screenshot (9)](https://user-images.githubusercontent.com/100956507/212502468-950410ff-0eb7-4d8d-8b39-d347952df364.png)
+
+
+
+
+
+
+
 
 
 **Σε ποια φάση της σχεδίασης και ανάπτυξης του υλικό/λογισμικού της διάδρασης θα διαλέγατε την κανονική κάμερα ή τον προσομοιωτή?**
