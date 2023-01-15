@@ -263,9 +263,6 @@
 ![Screenshot (20)](https://user-images.githubusercontent.com/100956507/212502435-07038aa2-a773-45a3-b86f-5b573c102f33.png)
 
 
-![Screenshot (20)](https://user-images.githubusercontent.com/100956507/212502443-a89dea38-afca-400f-8a13-90ea138c8ca2.png)
-
-
 ![Screenshot (21)](https://user-images.githubusercontent.com/100956507/212502450-6ef383dd-8f1b-4868-b93c-a1c9f9c3e9dd.png)
 
 
@@ -275,10 +272,31 @@
 ![Screenshot (7)](https://user-images.githubusercontent.com/100956507/212502460-876bff50-18ed-46c3-98f5-2dfd1b5f8296.png)
 
 
-![Screenshot (8)](https://user-images.githubusercontent.com/100956507/212502462-99b10689-e882-4e1b-8e34-3303de8390ba.png)
-
-
 ![Screenshot (9)](https://user-images.githubusercontent.com/100956507/212502468-950410ff-0eb7-4d8d-8b39-d347952df364.png)
+
+
+
+* Σμίκρυνση και μεγέθυνση της φωτογραφίας
+
+![Screenshot (11)](https://user-images.githubusercontent.com/100956507/212502556-c6373bc4-1131-4418-9073-9c3bfd48d495.png)
+
+![Screenshot (13)](https://user-images.githubusercontent.com/100956507/212502561-8825c54e-4f30-4e3b-98e0-4705683af976.png)
+
+
+
+ * Διάφορες αποχρώσεις του πράσινου
+
+![Screenshot (14)](https://user-images.githubusercontent.com/100956507/212502586-d272f4d9-94f0-4921-8072-76e9870cab38.png)
+
+![Screenshot (15)](https://user-images.githubusercontent.com/100956507/212502600-bc7c4f8a-4df4-45f2-a0ab-ce1db975f6c9.png)
+
+![Screenshot (16)](https://user-images.githubusercontent.com/100956507/212502605-ef18e350-302a-4969-81a5-5689d3933a22.png)
+
+![Screenshot (19)](https://user-images.githubusercontent.com/100956507/212502613-72aa7035-3cb6-4a32-ae2e-a669ee42ab82.png)
+
+
+
+
 
 
 
