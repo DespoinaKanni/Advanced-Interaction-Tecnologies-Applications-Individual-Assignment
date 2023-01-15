@@ -249,7 +249,7 @@
 ![Screenshot (8)](https://user-images.githubusercontent.com/100956507/212180327-91b31d8f-e897-4ba5-b321-b1e032f9a31e.png)
 
 
-Έκανα εγκατάσταση της εφαρμογής reacTIVision vision engine από το [link](https://reactivision.sourceforge.net/).Κατέβασα το pfd όπου μέσα είχε τα fiducials. Άνοιξα την κάμερα και έτρεξα το αρχείο του processing  
+Έκανα εγκατάσταση της εφαρμογής reacTIVision vision engine από το [link](https://reactivision.sourceforge.net/). Κατέβασα το pfd όπου μέσα είχε τα fiducials. Άνοιξα την κάμερα και έτρεξα το αρχείο του processing  
 
 
 
