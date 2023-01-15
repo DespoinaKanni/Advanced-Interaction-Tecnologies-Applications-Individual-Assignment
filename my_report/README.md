@@ -252,6 +252,7 @@
 Έκανα εγκατάσταση της εφαρμογής reacTIVision vision engine από το [link](https://reactivision.sourceforge.net/).Κατέβασα το pfd όπου μέσα είχε τα fiducials. Άνοιξα την κάμερα και έτρεξα το αρχείο του processing  
 
 
+
 * Εισαγωγή και μετακίνηση φωτογραφίας 
 
 ![Screenshot (5)](https://user-images.githubusercontent.com/100956507/212502347-3ec398c0-b7ca-4ca4-aff2-d5e3352dbf76.png)
@@ -286,22 +287,18 @@
 
  * Διάφορες αποχρώσεις του πράσινου
 
-![Screenshot (14)](https://user-images.githubusercontent.com/100956507/212502586-d272f4d9-94f0-4921-8072-76e9870cab38.png)
-
-![Screenshot (15)](https://user-images.githubusercontent.com/100956507/212502600-bc7c4f8a-4df4-45f2-a0ab-ce1db975f6c9.png)
-
-![Screenshot (16)](https://user-images.githubusercontent.com/100956507/212502605-ef18e350-302a-4969-81a5-5689d3933a22.png)
-
 ![Screenshot (19)](https://user-images.githubusercontent.com/100956507/212502613-72aa7035-3cb6-4a32-ae2e-a669ee42ab82.png)
 
 
 
 
 
+* Κόκκινη φωτογραφία και αλλαγή στο opacity
+
+![Screenshot (17)](https://user-images.githubusercontent.com/100956507/212502716-df177104-c146-44c1-81cd-96992b5f6a3b.png)
 
 
-
-
+![Screenshot (18)](https://user-images.githubusercontent.com/100956507/212502729-07326fc9-0c77-459a-b018-6a912055cef1.png)
 
 
 
